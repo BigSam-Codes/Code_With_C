@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1707429489 source:c:\users\samlexy\desktop\30 days of learning\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1706365777 source:c:\users\samlexy\desktop\30 days of learning\function.c
+	<stdio.h>
+
